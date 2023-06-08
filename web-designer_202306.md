@@ -37,4 +37,4 @@ __Location:__
 - Cyprus, Limassol, Platres (*make sure you check the map*)
 - Full-time (9am-6pm Mon-Fri)
 
-__[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSdkjoRGKkXsoKjIzKFNxNqDlKHY5Sdcv9X3iVpjhe6HN5ixHA/viewform)__
+__[APPLY NOW](https://forms.gle/25RXArJ4DpQkUnK17)__

@@ -41,8 +41,4 @@ __Location:__
 - __Remote__; or Cyprus, Limassol, Platres (*make sure you check the map*)
 - Part-time (between 9am-6pm Mon-Fri)
 
-__APPLY NOW:__ Submit your application [to our email](mailto:hr@dreamatic.tech) along with:
-
-  1. CV and cover letter
-  2. Are you located in Cyprus 🇨🇾?
-  3. Monthly salary expectations after tax
+__[APPLY NOW](https://forms.gle/gknaMjKahNdtfbSW8)__ 
