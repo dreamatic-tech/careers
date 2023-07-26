@@ -1,4 +1,4 @@
-#Developer
+# Developer
 
 We are looking for a JavaScript/Node.js developer to join our team. The right candidate is expected to communicate well in English. Having experience and enjoying working with Node.js, MongoDB, HTML/CSS, and JavaScript is crucial to this project.
 
@@ -15,7 +15,8 @@ __Skills and Specifications:__
 - Experience working with MongoDB
 - Be comfortable working and exporting from Figma and similar design toolkits
 - Experience with GIT (GitHub) and GitFlow is vital
-- Excellent command of English and communication is critical (you might be coding, but communication and understanding are vital)
+- Easy in communication (you might be coding, but communication skills are vital)
+- Profound in English (all our documentation and most of communication are in English)
 
 __What we expect from you:__
 
@@ -52,6 +53,7 @@ __Location:__
 
 - Cyprus, Limassol, Platres (*make sure you check the map*)
 - Full-time (9am-6pm Mon-Fri)
+- Remote option is available (9am-6pm Mon-Fri / EEST / Nicosia time)
 
 __[APPLY NOW](https://forms.gle/aRYa3GvdecoCaiyZ9)__
 
