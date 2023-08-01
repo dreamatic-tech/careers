@@ -1,6 +1,6 @@
 # Developer
 
-We are looking for a JavaScript/Node.js developer to join our team. The right candidate is expected to communicate well in English. Having experience and enjoying working with Node.js, MongoDB, HTML/CSS, and JavaScript is crucial to this project.
+We are looking for a JavaScript/Node.js developer Front End or Full Stack to join our team. The right candidate is expected to communicate well in English. Having experience and enjoying working with Node.js, MongoDB, HTML/CSS, and JavaScript is crucial to this project.
 
 __Key responsibilities:__
 
