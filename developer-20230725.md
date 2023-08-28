@@ -26,7 +26,7 @@ __Bonus skills:__
 
 - PWA
 - Nginx
-- MySQL, Mongo
+- Mongo, understanding of SQL and relation databases
 - Meteor.js
 
 __Personal skills/attributes:__
