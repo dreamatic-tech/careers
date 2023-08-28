@@ -41,5 +41,3 @@ __Our DevOps Stack__
 ### Openings
 
 - [JavaScript full-stack developer](https://github.com/dreamatic-tech/careers/blob/master/developer-20230725.md)
-- [QA/QC Engineer (tester)](https://github.com/dreamatic-tech/careers/blob/master/tester-20230801.md)
-- [Web UI/UX Designer](https://github.com/dreamatic-tech/careers/blob/master/web-designer_202306.md)
