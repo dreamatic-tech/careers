@@ -40,4 +40,4 @@ __Our DevOps Stack__
 
 ### Openings
 
-- [JavaScript full-stack developer](https://github.com/dreamatic-tech/careers/blob/master/developer-20230725.md)
+*Our team is complete. No positions are available atm*
